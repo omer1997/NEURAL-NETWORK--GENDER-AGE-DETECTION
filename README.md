@@ -1,0 +1,2 @@
+# NEURAL-NETWORK--GENDER-AGE-DETECTION
+In this Project, we will use Deep Learning to identify the gender and age range of a person from a single image of a face from the Adience dataset. Depending on the input image gender and age range will be given as an output. We reimplemented existing architecture to achieve better results compared with other published papers. Also, we have added the capability to output the age and gender for real live stream images using laptop webcam using OpenCV.
